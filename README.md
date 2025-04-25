@@ -7,7 +7,7 @@ Software Engineer and Fullstack Developer
 I'm a passionate and creative Software Engineering undergraduate from Sri Lanka, with a strong interest in full-stack development and software architecture. I love exploring the world of software engineering from designing intuitive front-end interfaces to building efficient back-end systems. Currently studying BSc (Hons) in Software Engineering at Sabaragamuwa University of Sri Lanka, I enjoy learning new technologies and applying them to real-world projects.
 
 *   🌍  I'm based in Sri Lanka
-*   🖥️  See my portfolio at [MyProfolio](http://hjk)
+*   🖥️  See my portfolio at [MyProfolio]
 *   ✉️  You can contact me at [shanchikkajeganathan@gmail.com](mailto:shanchikkajeganathan@gmail.com)
 *   🧠  I'm learning PHP & Python
 *   🤝  I'm open to collaborating on Any intersting projects
