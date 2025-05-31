@@ -30,7 +30,10 @@ I'm a passionate and creative Software Engineering undergraduate from Sri Lanka,
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Shanchikkaj"><img src="https://github-readme-stats.vercel.app/api?username=Shanchikkaj&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="Shanchikkaj's GitHub stats" /></a>
+<a href="http://www.github.com/Shanchikkaj">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanchikkaj&show_icons=true&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true" 
+       alt="Shanchikkaj's GitHub stats" />
+</a>
 
 <a href="https://github.com/Shanchikkaj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanchikkaj&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
