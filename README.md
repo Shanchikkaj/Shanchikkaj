@@ -32,7 +32,7 @@ I'm a passionate and creative Software Engineering undergraduate from Sri Lanka,
 
 <a href="http://www.github.com/Shanchikkaj">
   <img src="https://github-readme-stats.vercel.app/api?username=shanchikkaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&custom_title=Shanchikkaj%27s%20GitHub%20Stats" 
-       alt="Shanchikkaj's GitHub stats" />
+       alt="https://github-readme-stats.vercel.app/api?username=shanchikkaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&custom_title=Shanchikkaj%27s%20GitHub%20Stats" />
 </a>
 
 <a href="https://github.com/Shanchikkaj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanchikkaj&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
